@@ -1,0 +1,14 @@
+.formWrapper input {
+    border-radius: 0.5rem;
+    padding: 1rem;
+    width: 80%;
+}
+
+.formWrapper {
+    margin-bottom: 1rem;
+}
+
+.formWrapper button {
+    padding: 1rem 2rem;
+    margin-left: 1rem;
+}

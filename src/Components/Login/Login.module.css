@@ -1,0 +1,25 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+    width: 100vw;
+    height: 100vh;
+    font-size: 1.2rem;
+}
+
+.form {
+    background-color: rgb(83, 178, 146);;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.fields {
+    font-size: 1.5rem;
+}
+
+.btn {
+    margin: 1rem 0 0 0;
+    padding: 0.5rem;
+}
